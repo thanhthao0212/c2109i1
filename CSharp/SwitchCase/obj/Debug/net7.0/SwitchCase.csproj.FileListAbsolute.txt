@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.exe
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.deps.json
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.runtimeconfig.json
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.dll
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\bin\Debug\net7.0\SwitchCase.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.dll
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\obj\Debug\net7.0\refint\SwitchCase.dll
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\obj\Debug\net7.0\SwitchCase.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\SwitchCase\obj\Debug\net7.0\ref\SwitchCase.dll
