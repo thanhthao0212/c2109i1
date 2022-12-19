@@ -1,10 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
+
+using OopEcapsulation;
 
 namespace OopEncapsulationCont;
-internal class Weed
+internal class Weed :Plant
+
 {
+    static void Main(string[] args)
+    {
+        Weed w = new();
+        w.Protected();
+        w.ProtectedInternal();
+    }
 }
