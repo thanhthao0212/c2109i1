@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\bin\Debug\net7.0\BaiTap_HoThiThanhThao_C2109i1.exe
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\bin\Debug\net7.0\BaiTap_HoThiThanhThao_C2109i1.deps.json
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\bin\Debug\net7.0\BaiTap_HoThiThanhThao_C2109i1.runtimeconfig.json
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\bin\Debug\net7.0\BaiTap_HoThiThanhThao_C2109i1.dll
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\bin\Debug\net7.0\BaiTap_HoThiThanhThao_C2109i1.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\obj\Debug\net7.0\BaiTap_HoThiThanhThao_C2109i1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\obj\Debug\net7.0\BaiTap_HoThiThanhThao_C2109i1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\obj\Debug\net7.0\BaiTap_HoThiThanhThao_C2109i1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\obj\Debug\net7.0\BaiTap_HoThiThanhThao_C2109i1.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\obj\Debug\net7.0\BaiTap_HoThiThanhThao_C2109i1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\obj\Debug\net7.0\BaiTap_HoThiThanhThao_C2109i1.dll
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\obj\Debug\net7.0\refint\BaiTap_HoThiThanhThao_C2109i1.dll
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\obj\Debug\net7.0\BaiTap_HoThiThanhThao_C2109i1.pdb
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\obj\Debug\net7.0\BaiTap_HoThiThanhThao_C2109i1.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\c2109i1\CSharp\BaiTap_HoThiThanhThao_C2109i1\obj\Debug\net7.0\ref\BaiTap_HoThiThanhThao_C2109i1.dll
