@@ -209,4 +209,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\OopEncapsulationProperty\OopEncapsulationProperty.csproj" />
+  </ItemGroup>
+
 </Project>

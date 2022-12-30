@@ -2,6 +2,8 @@
 
 
 
+using ExeciseOop.ExtentionMethod;
+
 namespace ExeciseOop.Helper;
 internal class Validate<T>
 {
@@ -38,6 +40,10 @@ internal class Validate<T>
                         var date = DateTime.TryParseExact(str, new[] { "d/M/yyyy", "d-M-yyyy" }, new CultureInfo("vi-VN"),DateTimeStyles.None,out var t)? t : throw new Exception ("datetime wrong(d-M-yyyy or d/M/yyyy)");
                         obj = date.Add
                         (DateTime.Now.TimeOfDay);
+                        break;
+                    case TypeCode.Char:
+                        obj = Convert.ToChar(str);
+                        if (!obj.In('y', 'n')) throw new Exception("error, must be y or n");
                         break;
                     default:
                         obj = null;

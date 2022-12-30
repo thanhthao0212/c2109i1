@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "OopEncapsulationProperty/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/OopEncapsulationProperty.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OopEncapsulationProperty.dll": {}
+        }
+      },
+      "OopPolymorphismInterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "OopEncapsulationProperty": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OopPolymorphismInterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OopPolymorphismInterface.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "OopEncapsulationProperty/1.0.0": {
+      "type": "project",
+      "path": "../OopEncapsulationProperty/OopEncapsulationProperty.csproj",
+      "msbuildProject": "../OopEncapsulationProperty/OopEncapsulationProperty.csproj"
+    },
+    "OopPolymorphismInterface/1.0.0": {
+      "type": "project",
+      "path": "../OopPolymorphismInterface/OopPolymorphismInterface.csproj",
+      "msbuildProject": "../OopPolymorphismInterface/OopPolymorphismInterface.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "OopPolymorphismInterface >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ADMIN\\source\\repos\\c2109i1\\CSharp\\OopPolymorphismInterface\\OopPolymorphismInterface.csproj": {
+              "projectPath": "C:\\Users\\ADMIN\\source\\repos\\c2109i1\\CSharp\\OopPolymorphismInterface\\OopPolymorphismInterface.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

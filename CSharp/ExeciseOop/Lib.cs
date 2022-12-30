@@ -6,3 +6,4 @@ global using System.Threading.Tasks;
 global using ExeciseOop.Entity; 
 global using ExeciseOop.Helper;
 global using System.Globalization;
+global using ExeciseOop.Service;

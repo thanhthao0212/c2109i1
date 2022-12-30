@@ -11,4 +11,5 @@ using DelegateCsharp;
 //Mathems.Multi(10, 5);
 
 Abc dele = new Mathems().Div;
+dele += new Mathems().Sub;
 dele(5, 10); //safe thread
